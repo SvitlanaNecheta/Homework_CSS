@@ -94,9 +94,11 @@
  word-spacing: +30px;
  hyphens: manual;
  }
+ 
  .task_9 div{
   hyphens: manual;
   }
+
   .task_9 p{
     white-space: normal;
     }
