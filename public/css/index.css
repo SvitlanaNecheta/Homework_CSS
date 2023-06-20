@@ -1,18 +1,22 @@
 .task_1 h1 {
   color: green;
 }
+
 .task_1 p{
   -webkit-text-fill-color: red;
 }
 .task_1 button{
   -webkit-text-stroke: 1px;
 }
+
 .task_2 h1 {
   direction: rtl;
 }
+
 .task_2 p{
   text-align: right;
 }
+
 .task_2 button{
   text-transform: uppercase;
 }
@@ -94,7 +98,7 @@
  word-spacing: +30px;
  hyphens: manual;
  }
- 
+
  .task_9 div{
   hyphens: manual;
   }
