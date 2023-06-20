@@ -5,6 +5,7 @@
 .task_1 p{
   -webkit-text-fill-color: red;
 }
+
 .task_1 button{
   -webkit-text-stroke: 1px;
 }
